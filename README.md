@@ -29,7 +29,7 @@ I'm a Computer Science and Engineering student specializing in Data Science with
 -->
 ### 📫 How to reach me
 - LinkedIn: [Santhosh A](https://www.linkedin.com/in/santhosh-a-b61698255/)
-- Email: [santhosh737mc@gmail.com](santhosh737mc@gmail.com)
+- Email: santhosh737mc@gmail.com
 
 
 <!--### ⚡ Fun fact
